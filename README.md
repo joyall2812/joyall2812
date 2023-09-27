@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joyall2812
-- 👀 I’m interested in data science,python,bioinformatics,literature etc etc
+- 👀 I’m interested in data science,python,bioinformatics,literature.
 - 🌱 I’m currently learning data science and artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on instagram: @joyyyyal or joyalvs30@gmail.com
