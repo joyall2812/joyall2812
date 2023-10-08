@@ -19,7 +19,7 @@ I'm a passionate data science student with a background in bioinformatics. My jo
 
 - 📧 Email: JOYALVS380@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/joyal-vs-774135246/)
-- 📸 Instagram: [Your Instagram Profile](https://www.instagram.com/yourinstagram)
+- 📸 Instagram: [_minato_ackerman](https://www.instagram.com/_minato_ackerman/)
 
 
 Feel free to connect with me to discuss data science, bioinformatics, movies, or anything else that piques your interest. I'm always open to collaborations and conversations!
