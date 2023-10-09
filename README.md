@@ -1,3 +1,8 @@
+<style>
+    body {
+        background-color: #F0E68C;
+    }
+</style>
 # Hi, I'm joyal😊! 👋
 
 I'm a passionate data science student with a background in bioinformatics. My journey in the world of data is driven by my curiosity to uncover insights and make sense of complex information. When I'm not coding, I'm probably immersed in a good book or enjoying a movie.
@@ -20,11 +25,13 @@ I'm a passionate data science student with a background in bioinformatics. My jo
 - 📧 Email: JOYALVS380@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/joyal-vs-774135246/)
 - 📸 Instagram: [_minato_ackerman](https://www.instagram.com/_minato_ackerman/)
-![Mario Coding](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 Feel free to connect with me to discuss data science, bioinformatics, movies, or anything else that piques your interest. I'm always open to collaborations and conversations!
 
-Thanks for visiting my GitHub profile! 🚀
+#Thanks for visiting my GitHub profile! 🚀
+
+![Mario Coding](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 <!---
 joyall2812/joyall2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
