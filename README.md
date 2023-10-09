@@ -11,7 +11,7 @@ I'm a passionate data science student with a background in bioinformatics. My jo
 
 - Python | SQL | PERL 
 - Machine Learning | Data Analysis | Data Visualization
-- Jupyter Notebook | pandas | scikit-learn                          ![Python Logo](URL)
+- Jupyter Notebook | pandas | scikit-learn                          ![Python Logo](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 - BLAST | Swiss-Model | Deep Learning
 - Git | GitHub
 
