@@ -1,4 +1,5 @@
 # Hi, I'm joyal😊! 👋
+
 I'm a passionate data science student with a background in bioinformatics. My journey in the world of data is driven by my curiosity to uncover insights and make sense of complex information. When I'm not coding, I'm probably immersed in a good book or enjoying a movie.
 
 ## 🌱 What I'm Currently Up To
